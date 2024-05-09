@@ -1,0 +1,28 @@
+{
+  "fornecedores": [
+    {
+      "nome": "Alice",
+      "endereco": "rua abcs, 123",
+      "telefone": "987654345",
+      "id": "1234"
+    },
+    {
+      "nome": "Juliana",
+      "endereco": "rua abcs,123",
+      "telefone": "987654322",
+      "id": "1235"
+    },
+    {
+      "nome": "Terezinha",
+      "endereco": "Av flores,456",
+      "telefone": "11987654324",
+      "id": "A3Vv1K"
+    },
+    {
+      "id": "WUYM3x",
+      "nome": "Lucas",
+      "endereco": "av margarida, 58",
+      "telefone": "123456780"
+    }
+  ]
+}
